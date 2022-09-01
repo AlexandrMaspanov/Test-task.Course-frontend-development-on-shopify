@@ -10,8 +10,8 @@ body {
 }
 
 .article {
-    max-width: 680px;
-    padding-top: 24px;
+    max-width: 42.5rem;
+    padding-top: 1.5rem;
 }
 
 .article__heading {
@@ -25,7 +25,7 @@ body {
 }
 
 .figure__caption {
-    margin-top: 8px;
+    margin-top: 0.5rem;
     font-style: italic;
     text-align: center;
 }
